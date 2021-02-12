@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=CO3 Old DesignItemId=CONN_80pin New DesignItemId=CONN_DF12_80pin
+Change Component DesignItemId : Designator=CO4 Old DesignItemId=CONN_80pin New DesignItemId=CONN_DF12_80pin
+Change Component Comment : Designator=CO3 Old Comment=CONN_80pin New Comment=CONN_DF12_80pin
+Change Component Comment : Designator=CO4 Old Comment=CONN_80pin New Comment=CONN_DF12_80pin

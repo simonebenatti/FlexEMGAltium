@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GPIO0 Pin=CO2-1
+Removed Pin From Net: NetName=GPIO1 Pin=CO2-2
+Removed Pin From Net: NetName=GPIO2 Pin=CO2-3
+Removed Pin From Net: NetName=GPIO3 Pin=CO2-4
+Removed Pin From Net: NetName=GPIO4 Pin=CO2-5
+Removed Pin From Net: NetName=GPIO5 Pin=CO2-6
+Removed Pin From Net: NetName=VDD_1V8 Pin=CO2-7
+Removed Pin From Net: NetName=GND Pin=CO2-8
+Removed Pin From Net: NetName=JTAG.T\R\S\T\ Pin=J1-2
+Removed Pin From Net: NetName=JTAG.TCK Pin=J1-3
+Removed Pin From Net: NetName=JTAG.TDI Pin=J1-4
+Removed Pin From Net: NetName=JTAG.TDO Pin=J1-6
+Removed Pin From Net: NetName=JTAG.TMS Pin=J1-8
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=CO2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=LED0
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=LED1
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=LED2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=LED3
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Rc0
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Rc1
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=RcC
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=RcD
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CONN-HEADER-M-4x2 New DesignItemId=JTAG_16F
+Change Component Footprint: Designator=J1 Old Footprint=CONN_HDR_4x2 New Footprint=CONN_16-CLP
+Change Component Comment : Designator=J1 Old Comment=Header 4x2 New Comment=JTAG_16F
+Added Pin To Net: NetName=GPIO3 Pin=J1-9
+Added Pin To Net: NetName=GPIO1 Pin=J1-10
+Added Pin To Net: NetName=GPIO2 Pin=J1-11
+Added Pin To Net: NetName=GPIO4 Pin=J1-12
+Added Pin To Net: NetName=GPIO0 Pin=J1-13
+Added Pin To Net: NetName=GPIO5 Pin=J1-14
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component LED0 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component LED1 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component LED2 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component LED3 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component Rc0 ERJ-2RKF1100X
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component Rc1 ERJ-2RKF1100X
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component RcC ERJ-2RKF1100X
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component RcD ERJ-2RKF1100X

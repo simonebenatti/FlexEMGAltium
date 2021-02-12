@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FlexEMG_v0r0.PcbDoc   8/17/2017  3:57:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : FlexEMG_v0r0-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : FlexEMG_v0r0-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : FlexEMG_v0r0-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.102mm)                                            Round             400       PTH        17.99inch (456.90mm)
+T2      6mil (0.152mm)                                            Round             152       PTH        11.09inch (281.73mm)
+T3      8mil (0.203mm)                                            Round             6         PTH        0.55inch (14.03mm)
+T4      10mil (0.254mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      20mil (0.5mm)                                             Slot              2         PTH        0.60inch (15.33mm)
+T6      22mil (0.55mm)                                            Slot              2         PTH        0.41inch (10.30mm)
+T7      39mil (1mm)                                               Round             4         PTH        0.68inch (17.22mm)
+T8      24mil (0.6mm)                                             Round             4         NPTH       2.16inch (54.83mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              571
+
+Total Processing Time (hh:mm:ss) : 00:00:01

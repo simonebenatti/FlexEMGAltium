@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=flexemg_v0r0-roundholes-plated.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,g3,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=flexemg_v0r0-slotholes-plated.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=flexemg_v0r0-roundholes-nonplated.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,g3,gbl

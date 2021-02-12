@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NONET Pin=COchg2-6
+Added Pin To Net: NetName=NONET Pin=COchg2-7
+Added Pin To Net: NetName=NONET Pin=COchg2-8
+Added Pin To Net: NetName=NONET Pin=COchg2-9
+Added Net: Name=NONET
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component COchg2 USB micro-B

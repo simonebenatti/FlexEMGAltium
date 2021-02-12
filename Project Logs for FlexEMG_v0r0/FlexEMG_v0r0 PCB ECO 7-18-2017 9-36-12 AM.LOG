@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=N2_E63 Pin=CO3-1
+Removed Pin From Net: NetName=N2_E62 Pin=CO3-3
+Removed Pin From Net: NetName=N2_E61 Pin=CO3-5
+Removed Pin From Net: NetName=N2_E60 Pin=CO3-7
+Removed Pin From Net: NetName=N2_E59 Pin=CO3-9
+Removed Pin From Net: NetName=N2_E58 Pin=CO3-11
+Removed Pin From Net: NetName=N2_E57 Pin=CO3-13
+Removed Pin From Net: NetName=N2_E56 Pin=CO3-15
+Removed Pin From Net: NetName=N2_E55 Pin=CO3-17
+Removed Pin From Net: NetName=N2_E54 Pin=CO3-19
+Removed Pin From Net: NetName=N2_E53 Pin=CO3-21
+Removed Pin From Net: NetName=N2_E52 Pin=CO3-23
+Removed Pin From Net: NetName=N2_E51 Pin=CO3-25
+Removed Pin From Net: NetName=N2_E50 Pin=CO3-27
+Removed Pin From Net: NetName=N2_E49 Pin=CO3-29
+Removed Pin From Net: NetName=N2_E48 Pin=CO3-31
+Removed Pin From Net: NetName=N2_E47 Pin=CO3-33
+Removed Pin From Net: NetName=N2_E46 Pin=CO3-35
+Removed Pin From Net: NetName=N2_E45 Pin=CO3-37
+Removed Pin From Net: NetName=N2_E44 Pin=CO3-39
+Removed Pin From Net: NetName=N2_E43 Pin=CO3-41
+Removed Pin From Net: NetName=N2_E42 Pin=CO3-43
+Removed Pin From Net: NetName=N2_E41 Pin=CO3-45
+Removed Pin From Net: NetName=N2_E40 Pin=CO3-47
+Removed Pin From Net: NetName=N2_E39 Pin=CO3-49
+Removed Pin From Net: NetName=N2_E38 Pin=CO3-51
+Removed Pin From Net: NetName=N2_E37 Pin=CO3-53
+Removed Pin From Net: NetName=N2_E36 Pin=CO3-55
+Removed Pin From Net: NetName=N2_E35 Pin=CO3-57
+Removed Pin From Net: NetName=N2_E34 Pin=CO3-59
+Removed Pin From Net: NetName=N2_E33 Pin=CO3-61
+Removed Pin From Net: NetName=N2_E32 Pin=CO3-63
+Added Pin To Net: NetName=N1_E62 Pin=CO3-1
+Added Pin To Net: NetName=N1_E63 Pin=CO3-2
+Added Pin To Net: NetName=N1_E60 Pin=CO3-3
+Added Pin To Net: NetName=N1_E61 Pin=CO3-4
+Added Pin To Net: NetName=N1_E58 Pin=CO3-5
+Added Pin To Net: NetName=N1_E59 Pin=CO3-6
+Added Pin To Net: NetName=N1_E56 Pin=CO3-7
+Added Pin To Net: NetName=N1_E57 Pin=CO3-8
+Added Pin To Net: NetName=N1_E54 Pin=CO3-9
+Added Pin To Net: NetName=N1_E55 Pin=CO3-10
+Added Pin To Net: NetName=N1_E52 Pin=CO3-11
+Added Pin To Net: NetName=N1_E53 Pin=CO3-12
+Added Room: Name=FlexEMG_v0r0_ACCEL
+Added Room: Name=FlexEMG_v0r0_NM
+Added Room: Name=FlexEMG_v0r0_POWER-SUPPLIES
+Added Room: Name=FlexEMG_v0r0_RADIO
+Added Room: Name=FlexEMG_v0r0_SF2-COMM
+Added Room: Name=FlexEMG_v0r0_SF2-POWER
+Added Room: Name=FlexEMG_v0r0_SF2_DDR

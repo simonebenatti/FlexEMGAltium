@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=N1_E62 Pin=CO3-1
+Removed Pin From Net: NetName=N1_E63 Pin=CO3-2
+Removed Pin From Net: NetName=N1_E60 Pin=CO3-3
+Removed Pin From Net: NetName=N1_E61 Pin=CO3-4
+Removed Pin From Net: NetName=N1_E58 Pin=CO3-5
+Removed Pin From Net: NetName=N1_E59 Pin=CO3-6
+Removed Pin From Net: NetName=N1_E56 Pin=CO3-7
+Removed Pin From Net: NetName=N1_E57 Pin=CO3-8
+Removed Pin From Net: NetName=N1_E54 Pin=CO3-9
+Removed Pin From Net: NetName=N1_E55 Pin=CO3-10
+Removed Pin From Net: NetName=N1_E52 Pin=CO3-11
+Removed Pin From Net: NetName=N1_E53 Pin=CO3-12
+Added Pin To Net: NetName=N2_E62 Pin=CO3-1
+Added Pin To Net: NetName=N2_E63 Pin=CO3-2
+Added Pin To Net: NetName=N2_E60 Pin=CO3-3

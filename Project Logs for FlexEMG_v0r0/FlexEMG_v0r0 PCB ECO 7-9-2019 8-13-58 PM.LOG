@@ -1,0 +1,185 @@
+Added Component: Designator=C1(J1-0603)
+Added Component: Designator=C2(J1-0603)
+Added Component: Designator=C3(0402)
+Added Component: Designator=C4(0402)
+Added Component: Designator=C5(0402)
+Added Component: Designator=C6(0402)
+Added Component: Designator=C7(0402)
+Added Component: Designator=C8(0402)
+Added Component: Designator=C9(0402)
+Added Component: Designator=C10(0402)
+Added Component: Designator=C21(0402)
+Added Component: Designator=C22(0402)
+Added Component: Designator=CW1(0402)
+Added Component: Designator=CW2(0402)
+Added Component: Designator=R1(0402)
+Added Component: Designator=RVREG1(J1-0603)
+Added Component: Designator=U2(QFN50P900X900X100_HS_NOVIAS_65M)
+Added Component: Designator=YW1(SiT1533-C)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=CW1-1
+Added Pin To Net: NetName=GND Pin=CW2-1
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-65
+Added Pin To Net: NetName=GND Pin=YW1-2
+Added Pin To Net: NetName=CAM.DATA0 Pin=U2-19
+Added Net: Name=CAM.DATA0
+Added Pin To Net: NetName=CAM.DATA1 Pin=U2-20
+Added Net: Name=CAM.DATA1
+Added Pin To Net: NetName=CAM.DATA2 Pin=U2-21
+Added Net: Name=CAM.DATA2
+Added Pin To Net: NetName=CAM.DATA3 Pin=U2-22
+Added Net: Name=CAM.DATA3
+Added Pin To Net: NetName=CAM.DATA4 Pin=U2-23
+Added Net: Name=CAM.DATA4
+Added Pin To Net: NetName=CAM.DATA5 Pin=U2-24
+Added Net: Name=CAM.DATA5
+Added Pin To Net: NetName=CAM.DATA6 Pin=U2-25
+Added Net: Name=CAM.DATA6
+Added Pin To Net: NetName=CAM.DATA7 Pin=U2-27
+Added Net: Name=CAM.DATA7
+Added Pin To Net: NetName=CAM.HSYNC Pin=U2-18
+Added Net: Name=CAM.HSYNC
+Added Pin To Net: NetName=CAM.PCLK Pin=U2-17
+Added Net: Name=CAM.PCLK
+Added Pin To Net: NetName=CAM.VSYNC Pin=U2-28
+Added Net: Name=CAM.VSYNC
+Added Pin To Net: NetName=DVDD Pin=C2-2
+Added Pin To Net: NetName=DVDD Pin=C3-2
+Added Pin To Net: NetName=DVDD Pin=C4-2
+Added Pin To Net: NetName=DVDD Pin=C5-2
+Added Pin To Net: NetName=DVDD Pin=C6-2
+Added Pin To Net: NetName=DVDD Pin=C7-2
+Added Pin To Net: NetName=DVDD Pin=C8-2
+Added Pin To Net: NetName=DVDD Pin=R1-2
+Added Pin To Net: NetName=DVDD Pin=RVREG1-2
+Added Pin To Net: NetName=DVDD Pin=U2-1
+Added Pin To Net: NetName=DVDD Pin=U2-6
+Added Pin To Net: NetName=DVDD Pin=U2-12
+Added Pin To Net: NetName=DVDD Pin=U2-26
+Added Pin To Net: NetName=DVDD Pin=U2-40
+Added Pin To Net: NetName=DVDD Pin=YW1-4
+Added Net: Name=DVDD
+Added Pin To Net: NetName=HYPER_0.C\K\ Pin=U2-14
+Added Net: Name=HYPER_0.C\K\
+Added Pin To Net: NetName=HYPER_0.C\S\ Pin=U2-15
+Added Net: Name=HYPER_0.C\S\
+Added Pin To Net: NetName=HYPER_0.CK Pin=U2-13
+Added Net: Name=HYPER_0.CK
+Added Pin To Net: NetName=HYPER_0.DQ0 Pin=U2-10
+Added Net: Name=HYPER_0.DQ0
+Added Pin To Net: NetName=HYPER_0.DQ1 Pin=U2-9
+Added Net: Name=HYPER_0.DQ1
+Added Pin To Net: NetName=HYPER_0.DQ2 Pin=U2-8
+Added Net: Name=HYPER_0.DQ2
+Added Pin To Net: NetName=HYPER_0.DQ3 Pin=U2-7
+Added Net: Name=HYPER_0.DQ3
+Added Pin To Net: NetName=HYPER_0.DQ4 Pin=U2-5
+Added Net: Name=HYPER_0.DQ4
+Added Pin To Net: NetName=HYPER_0.DQ5 Pin=U2-4
+Added Net: Name=HYPER_0.DQ5
+Added Pin To Net: NetName=HYPER_0.DQ6 Pin=U2-3
+Added Net: Name=HYPER_0.DQ6
+Added Pin To Net: NetName=HYPER_0.DQ7 Pin=U2-2
+Added Net: Name=HYPER_0.DQ7
+Added Pin To Net: NetName=HYPER_0.RWDS Pin=U2-11
+Added Net: Name=HYPER_0.RWDS
+Added Pin To Net: NetName=HYPER_1.C\S\ Pin=U2-16
+Added Net: Name=HYPER_1.C\S\
+Added Pin To Net: NetName=I2C.SCL Pin=U2-63
+Added Net: Name=I2C.SCL
+Added Pin To Net: NetName=I2C.SDA Pin=U2-64
+Added Net: Name=I2C.SDA
+Added Pin To Net: NetName=I2S0_SCK Pin=U2-43
+Added Net: Name=I2S0_SCK
+Added Pin To Net: NetName=I2S0_SDI Pin=U2-41
+Added Net: Name=I2S0_SDI
+Added Pin To Net: NetName=I2S0_WS Pin=U2-42
+Added Net: Name=I2S0_WS
+Added Pin To Net: NetName=I2S1_SDI Pin=U2-39
+Added Net: Name=I2S1_SDI
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=U2-48
+Added Net: Name=JTAG.T\R\S\T\
+Added Pin To Net: NetName=JTAG.TCK Pin=U2-44
+Added Net: Name=JTAG.TCK
+Added Pin To Net: NetName=JTAG.TDI Pin=U2-47
+Added Net: Name=JTAG.TDI
+Added Pin To Net: NetName=JTAG.TDO Pin=U2-46
+Added Net: Name=JTAG.TDO
+Added Pin To Net: NetName=JTAG.TMS Pin=U2-45
+Added Net: Name=JTAG.TMS
+Added Pin To Net: NetName=NetLW1_2 Pin=U2-50
+Added Net: Name=NetLW1_2
+Added Pin To Net: NetName=NetU2_62 Pin=U2-62
+Added Pin To Net: NetName=NetU2_62 Pin=YW1-3
+Added Net: Name=NetU2_62
+Added Pin To Net: NetName=POR_N Pin=U2-57
+Added Net: Name=POR_N
+Added Pin To Net: NetName=PULP_RST Pin=R1-1
+Added Pin To Net: NetName=PULP_RST Pin=U2-60
+Added Net: Name=PULP_RST
+Added Pin To Net: NetName=SPIM.C\S\1\ Pin=U2-38
+Added Net: Name=SPIM.C\S\1\
+Added Pin To Net: NetName=SPIM.C\S\2\ Pin=U2-36
+Added Net: Name=SPIM.C\S\2\
+Added Pin To Net: NetName=SPIM.MISO Pin=U2-33
+Added Net: Name=SPIM.MISO
+Added Pin To Net: NetName=SPIM.MOSI Pin=U2-31
+Added Net: Name=SPIM.MOSI
+Added Pin To Net: NetName=SPIM.SCK Pin=U2-30
+Added Net: Name=SPIM.SCK
+Added Pin To Net: NetName=SPIM_SDIO2 Pin=U2-34
+Added Net: Name=SPIM_SDIO2
+Added Pin To Net: NetName=SPIM_SDIO3 Pin=U2-35
+Added Net: Name=SPIM_SDIO3
+Added Pin To Net: NetName=UART.RX Pin=U2-58
+Added Net: Name=UART.RX
+Added Pin To Net: NetName=UART.TX Pin=U2-59
+Added Net: Name=UART.TX
+Added Pin To Net: NetName=VAVD Pin=C1-2
+Added Pin To Net: NetName=VAVD Pin=RVREG1-1
+Added Pin To Net: NetName=VAVD Pin=U2-52
+Added Pin To Net: NetName=VAVD Pin=U2-53
+Added Net: Name=VAVD
+Added Pin To Net: NetName=VCLU Pin=C9-2
+Added Pin To Net: NetName=VCLU Pin=C10-2
+Added Pin To Net: NetName=VCLU Pin=C21-2
+Added Pin To Net: NetName=VCLU Pin=C22-2
+Added Pin To Net: NetName=VCLU Pin=CW1-2
+Added Pin To Net: NetName=VCLU Pin=CW2-2
+Added Pin To Net: NetName=VCLU Pin=U2-29
+Added Pin To Net: NetName=VCLU Pin=U2-32
+Added Pin To Net: NetName=VCLU Pin=U2-37
+Added Pin To Net: NetName=VCLU Pin=U2-54
+Added Pin To Net: NetName=VCLU Pin=U2-56
+Added Pin To Net: NetName=VCLU Pin=U2-61
+Added Net: Name=VCLU
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C1 NC
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C2 NC
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C3 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C4 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C5 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C6 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C7 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C8 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C9 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C10 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C21 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component C22 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component CW1 4.7uF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component CW2 100nF
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component R1 NC
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component RVREG1 
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component U2 Mr. Wolf PULP
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component YW1 SIT1533AC-H5-DCC-32.768E

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD_1V8 Pin=Rd0-1
+Removed Pin From Net: NetName=GND Pin=Rd1-1
+Removed Pin From Net: NetName=DDR_CKE Pin=Rd1-2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Rd0
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Rd1

@@ -1,0 +1,164 @@
+Change Component DesignItemId : Designator=CO3 Old DesignItemId= New DesignItemId=CONN_80pin
+Change Component DesignItemId : Designator=CO4 Old DesignItemId= New DesignItemId=CONN_80pin
+Change Component Footprint: Designator=CO4 Old Footprint=CONN_DF12B(3.0)-80DP New Footprint=CONN_DF12(3.0)-80DP
+Change Component Comment : Designator=CO3 Old Comment=Comment New Comment=CONN_80pin
+Change Component Comment : Designator=CO4 Old Comment=Comment New Comment=CONN_80pin
+Change Component Library : Designator=CO3 Old Library= New Library=CM.SchLib
+Added Component: Designator=CObat(HDR1X2-50mil)
+Added Component: Designator=COchg(HDR1X2-50mil)
+Added Component: Designator=SW1(HDR1X2-50mil)
+Added Pin To Net: NetName=CO3_1 Pin=CO3-7
+Added Pin To Net: NetName=CO3_2 Pin=CO3-8
+Added Pin To Net: NetName=CO3_3 Pin=CO3-9
+Added Pin To Net: NetName=CO3_4 Pin=CO3-10
+Added Pin To Net: NetName=CO3_5 Pin=CO3-11
+Added Pin To Net: NetName=CO3_6 Pin=CO3-12
+Added Pin To Net: NetName=CO3_7 Pin=CO3-13
+Added Pin To Net: NetName=CO3_8 Pin=CO3-14
+Added Pin To Net: NetName=CO3_9 Pin=CO3-15
+Added Pin To Net: NetName=CO3_10 Pin=CO3-16
+Added Pin To Net: NetName=CO3_11 Pin=CO3-17
+Added Pin To Net: NetName=CO3_12 Pin=CO3-18
+Added Pin To Net: NetName=CO3_13 Pin=CO3-19
+Added Pin To Net: NetName=CO3_14 Pin=CO3-20
+Added Pin To Net: NetName=CO3_15 Pin=CO3-21
+Added Pin To Net: NetName=CO3_16 Pin=CO3-22
+Added Pin To Net: NetName=CO3_17 Pin=CO3-23
+Added Pin To Net: NetName=CO3_18 Pin=CO3-24
+Added Pin To Net: NetName=CO3_19 Pin=CO3-25
+Added Pin To Net: NetName=CO3_20 Pin=CO3-26
+Added Pin To Net: NetName=CO3_21 Pin=CO3-27
+Added Pin To Net: NetName=CO3_22 Pin=CO3-28
+Added Pin To Net: NetName=CO3_23 Pin=CO3-29
+Added Pin To Net: NetName=CO3_24 Pin=CO3-30
+Added Pin To Net: NetName=CO3_25 Pin=CO3-31
+Added Pin To Net: NetName=CO3_26 Pin=CO3-32
+Added Pin To Net: NetName=CO3_27 Pin=CO3-33
+Added Pin To Net: NetName=CO3_28 Pin=CO3-34
+Added Pin To Net: NetName=CO3_29 Pin=CO3-35
+Added Pin To Net: NetName=CO3_30 Pin=CO3-36
+Added Pin To Net: NetName=CO3_31 Pin=CO3-37
+Added Pin To Net: NetName=CO3_32 Pin=CO3-38
+Added Pin To Net: NetName=CO4_1 Pin=CO3-39
+Added Pin To Net: NetName=CO4_2 Pin=CO3-40
+Added Pin To Net: NetName=CO4_3 Pin=CO3-41
+Added Pin To Net: NetName=CO4_4 Pin=CO3-42
+Added Pin To Net: NetName=CO4_5 Pin=CO3-43
+Added Pin To Net: NetName=CO4_6 Pin=CO3-44
+Added Pin To Net: NetName=CO4_7 Pin=CO3-45
+Added Pin To Net: NetName=CO4_8 Pin=CO3-46
+Added Pin To Net: NetName=CO4_9 Pin=CO3-47
+Added Pin To Net: NetName=CO4_10 Pin=CO3-48
+Added Pin To Net: NetName=CO4_11 Pin=CO3-49
+Added Pin To Net: NetName=CO4_12 Pin=CO3-50
+Added Pin To Net: NetName=CO4_13 Pin=CO3-51
+Added Pin To Net: NetName=CO4_14 Pin=CO3-52
+Added Pin To Net: NetName=CO4_15 Pin=CO3-53
+Added Pin To Net: NetName=CO4_16 Pin=CO3-54
+Added Pin To Net: NetName=CO4_17 Pin=CO3-55
+Added Pin To Net: NetName=CO4_18 Pin=CO3-56
+Added Pin To Net: NetName=CO4_19 Pin=CO3-57
+Added Pin To Net: NetName=CO4_20 Pin=CO3-58
+Added Pin To Net: NetName=CO4_21 Pin=CO3-59
+Added Pin To Net: NetName=CO4_22 Pin=CO3-60
+Added Pin To Net: NetName=CO4_23 Pin=CO3-61
+Added Pin To Net: NetName=CO4_24 Pin=CO3-62
+Added Pin To Net: NetName=CO4_25 Pin=CO3-63
+Added Pin To Net: NetName=CO4_26 Pin=CO3-64
+Added Pin To Net: NetName=CO4_27 Pin=CO3-65
+Added Pin To Net: NetName=CO4_28 Pin=CO3-66
+Added Pin To Net: NetName=CO4_29 Pin=CO3-67
+Added Pin To Net: NetName=CO4_30 Pin=CO3-68
+Added Pin To Net: NetName=CO4_31 Pin=CO3-69
+Added Pin To Net: NetName=CO4_32 Pin=CO3-70
+Added Pin To Net: NetName=CO5_1 Pin=CO4-7
+Added Pin To Net: NetName=CO5_2 Pin=CO4-8
+Added Pin To Net: NetName=CO5_3 Pin=CO4-9
+Added Pin To Net: NetName=CO5_4 Pin=CO4-10
+Added Pin To Net: NetName=CO5_5 Pin=CO4-11
+Added Pin To Net: NetName=CO5_6 Pin=CO4-12
+Added Pin To Net: NetName=CO5_7 Pin=CO4-13
+Added Pin To Net: NetName=CO5_8 Pin=CO4-14
+Added Pin To Net: NetName=CO5_9 Pin=CO4-15
+Added Pin To Net: NetName=CO5_10 Pin=CO4-16
+Added Pin To Net: NetName=CO5_11 Pin=CO4-17
+Added Pin To Net: NetName=CO5_12 Pin=CO4-18
+Added Pin To Net: NetName=CO5_13 Pin=CO4-19
+Added Pin To Net: NetName=CO5_14 Pin=CO4-20
+Added Pin To Net: NetName=CO5_15 Pin=CO4-21
+Added Pin To Net: NetName=CO5_16 Pin=CO4-22
+Added Pin To Net: NetName=CO5_17 Pin=CO4-23
+Added Pin To Net: NetName=CO5_18 Pin=CO4-24
+Added Pin To Net: NetName=CO5_19 Pin=CO4-25
+Added Pin To Net: NetName=CO5_20 Pin=CO4-26
+Added Pin To Net: NetName=CO5_21 Pin=CO4-27
+Added Pin To Net: NetName=CO5_22 Pin=CO4-28
+Added Pin To Net: NetName=CO5_23 Pin=CO4-29
+Added Pin To Net: NetName=CO5_24 Pin=CO4-30
+Added Pin To Net: NetName=CO5_25 Pin=CO4-31
+Added Pin To Net: NetName=CO5_26 Pin=CO4-32
+Added Pin To Net: NetName=CO5_27 Pin=CO4-33
+Added Pin To Net: NetName=CO5_28 Pin=CO4-34
+Added Pin To Net: NetName=CO5_29 Pin=CO4-35
+Added Pin To Net: NetName=CO5_30 Pin=CO4-36
+Added Pin To Net: NetName=CO5_31 Pin=CO4-37
+Added Pin To Net: NetName=CO5_32 Pin=CO4-38
+Added Pin To Net: NetName=CO6_1 Pin=CO4-39
+Added Pin To Net: NetName=CO6_2 Pin=CO4-40
+Added Pin To Net: NetName=CO6_3 Pin=CO4-41
+Added Pin To Net: NetName=CO6_4 Pin=CO4-42
+Added Pin To Net: NetName=CO6_5 Pin=CO4-43
+Added Pin To Net: NetName=CO6_6 Pin=CO4-44
+Added Pin To Net: NetName=CO6_7 Pin=CO4-45
+Added Pin To Net: NetName=CO6_8 Pin=CO4-46
+Added Pin To Net: NetName=CO6_9 Pin=CO4-47
+Added Pin To Net: NetName=CO6_10 Pin=CO4-48
+Added Pin To Net: NetName=CO6_11 Pin=CO4-49
+Added Pin To Net: NetName=CO6_12 Pin=CO4-50
+Added Pin To Net: NetName=CO6_13 Pin=CO4-51
+Added Pin To Net: NetName=CO6_14 Pin=CO4-52
+Added Pin To Net: NetName=CO6_15 Pin=CO4-53
+Added Pin To Net: NetName=CO6_16 Pin=CO4-54
+Added Pin To Net: NetName=CO6_17 Pin=CO4-55
+Added Pin To Net: NetName=CO6_18 Pin=CO4-56
+Added Pin To Net: NetName=CO6_19 Pin=CO4-57
+Added Pin To Net: NetName=CO6_20 Pin=CO4-58
+Added Pin To Net: NetName=CO6_21 Pin=CO4-59
+Added Pin To Net: NetName=CO6_22 Pin=CO4-60
+Added Pin To Net: NetName=CO6_23 Pin=CO4-61
+Added Pin To Net: NetName=CO6_24 Pin=CO4-62
+Added Pin To Net: NetName=CO6_25 Pin=CO4-63
+Added Pin To Net: NetName=CO6_26 Pin=CO4-64
+Added Pin To Net: NetName=CO6_27 Pin=CO4-65
+Added Pin To Net: NetName=CO6_28 Pin=CO4-66
+Added Pin To Net: NetName=CO6_29 Pin=CO4-67
+Added Pin To Net: NetName=CO6_30 Pin=CO4-68
+Added Pin To Net: NetName=CO6_31 Pin=CO4-69
+Added Pin To Net: NetName=CO6_32 Pin=CO4-70
+Added Pin To Net: NetName=VBATT Pin=CObat-1
+Added Pin To Net: NetName=GND Pin=CObat-2
+Added Pin To Net: NetName=CHG_IN Pin=COchg-1
+Added Pin To Net: NetName=GND Pin=COchg-2
+Added Pin To Net: NetName=SW_BATT Pin=SW1-1
+Added Pin To Net: NetName=VBATT Pin=SW1-2
+Change Class Name : Old Net Name=Mario-CM_v0r0_ACCEL New Net Name=FlexEMG_v0r0_ACCEL
+Change Class Name : Old Net Name=Mario-CM_v0r0_BATT-CHARGER New Net Name=FlexEMG_v0r0_BATT-CHARGER
+Change Class Name : Old Net Name=Mario-CM_v0r0_NM New Net Name=FlexEMG_v0r0_NM
+Change Class Name : Old Net Name=Mario-CM_v0r0_POWER-SUPPLIES New Net Name=FlexEMG_v0r0_POWER-SUPPLIES
+Change Class Name : Old Net Name=Mario-CM_v0r0_RADIO New Net Name=FlexEMG_v0r0_RADIO
+Change Class Name : Old Net Name=Mario-CM_v0r0_SF2-COMM New Net Name=FlexEMG_v0r0_SF2-COMM
+Change Class Name : Old Net Name=Mario-CM_v0r0_SF2-POWER New Net Name=FlexEMG_v0r0_SF2-POWER
+Change Class Name : Old Net Name=Mario-CM_v0r0_SF2_DDR New Net Name=FlexEMG_v0r0_SF2_DDR
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component CO3 CONN_80pin
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component CO4 CONN_80pin
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component CObat Header 1x2, local stock
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component COchg Header 1x2, local stock
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component SW1 Header 1x2, local stock
+Added Room: Name=FlexEMG_v0r0_ACCEL
+Added Room: Name=FlexEMG_v0r0_BATT-CHARGER
+Added Room: Name=FlexEMG_v0r0_NM
+Added Room: Name=FlexEMG_v0r0_POWER-SUPPLIES
+Added Room: Name=FlexEMG_v0r0_RADIO
+Added Room: Name=FlexEMG_v0r0_SF2-COMM
+Added Room: Name=FlexEMG_v0r0_SF2-POWER
+Added Room: Name=FlexEMG_v0r0_SF2_DDR

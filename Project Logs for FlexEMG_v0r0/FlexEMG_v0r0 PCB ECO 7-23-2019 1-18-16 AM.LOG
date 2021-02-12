@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetU1_G1 Pin=U1-G1
+Added Pin To Net: NetName=NetU1_G1 Pin=U3-J7
+Added Net: Name=NetU1_G1
+Added Pin To Net: NetName=NetU1_G4 Pin=U1-G4
+Added Pin To Net: NetName=NetU1_G4 Pin=U3-J8
+Added Net: Name=NetU1_G4

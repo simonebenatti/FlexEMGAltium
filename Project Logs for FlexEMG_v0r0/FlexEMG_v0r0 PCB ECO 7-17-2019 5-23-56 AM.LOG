@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=J1-2
+Added Pin To Net: NetName=JTAG.TCK Pin=J1-3
+Added Pin To Net: NetName=JTAG.TDI Pin=J1-4
+Added Pin To Net: NetName=JTAG.TDO Pin=J1-6
+Added Pin To Net: NetName=JTAG.TMS Pin=J1-8

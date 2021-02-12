@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=N1_E60 Pin=LED0-1
+Removed Pin From Net: NetName=N1_E52 Pin=LED0-2
+Removed Pin From Net: NetName=N1_E52 Pin=LED1-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED2-1
+Removed Pin From Net: NetName=N1_E60 Pin=Rc0-1
+Removed Pin From Net: NetName=GPIO0 Pin=RcC-2
+Removed Pin From Net: NetName=GPIO1 Pin=RcD-2
+Removed Member From Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=LED2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=LED4
+Change Component Designator: OldDesignator=RcC NewDesignator=Rc1
+Change Component Description : Designator=LED0 Old Description=LED ORANGE CLEAR 0603 SMD New Description=LED YELLOW CLEAR 0603 SMD
+Change Component Description : Designator=LED2 Old Description=LED ORANGE CLEAR 0603 SMD New Description=LED YELLOW CLEAR 0603 SMD
+Change Component Description : Designator=LED1 Old Description=LED YELLOW CLEAR 0603 SMD New Description=LED ORANGE CLEAR 0603 SMD
+Change Component Description : Designator=LED3 Old Description=LED YELLOW CLEAR 0603 SMD New Description=LED ORANGE CLEAR 0603 SMD
+Added Component: Designator=RcC(0201_p)
+Added Pin To Net: NetName=GND Pin=LED0-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GPIO0 Pin=Rc0-2
+Added Pin To Net: NetName=GPIO1 Pin=Rc1-2
+Added Pin To Net: NetName=GPIO2 Pin=RcC-2
+Added Pin To Net: NetName=GPIO3 Pin=RcD-2
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED4_1
+Added Pin To Net: NetName=NetLED0_1 Pin=LED0-1
+Added Pin To Net: NetName=NetLED0_1 Pin=Rc0-1
+Added Net: Name=NetLED0_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=RcC-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component LED0 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component LED1 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component LED3 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component LED4 Manufactrurer PN
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component Rc0 ERJ-2RKF1100X
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component RcC ERJ-2RKF1100X

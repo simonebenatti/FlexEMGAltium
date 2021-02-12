@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=SPI_CLK_SF Pin=U2-30
+Added Pin To Net: NetName=SPI_SDI_SF Pin=U2-31
+Added Pin To Net: NetName=SPI_SDO_SF Pin=U2-33
+Added Pin To Net: NetName=SPI_NCS_SF Pin=U2-38
+Added Pin To Net: NetName=JTAG.TCK Pin=U3-C9
+Added Pin To Net: NetName=JTAG.TDO Pin=U3-D9
+Added Pin To Net: NetName=JTAG.TMS Pin=U3-E9
+Added Pin To Net: NetName=JTAG.TDI Pin=U3-F9
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=U3-H9

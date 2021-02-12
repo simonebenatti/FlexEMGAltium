@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=CObat Old DesignItemId=Header, 2 pin, 100mil New DesignItemId=Header, 2 pin
+Change Component DesignItemId : Designator=COchg Old DesignItemId=Header, 2 pin, 100mil New DesignItemId=Header, 2 pin
+Change Component Footprint: Designator=CObat Old Footprint=HEADER, 2 PIN, 100MIL New Footprint=Header, 2 pin, 2mm(79mil)
+Change Component Footprint: Designator=COchg Old Footprint=HEADER, 2 PIN, 100MIL New Footprint=Header, 2 pin, 2mm(79mil)
+Change Component Comment : Designator=CObat Old Comment=Header, 2 pin, 100mil New Comment=Header, 2 pin
+Change Component Comment : Designator=COchg Old Comment=Header, 2 pin, 100mil New Comment=Header, 2 pin
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component Ce2 C1005X5R1C105M050BC
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component COchg Header, 2 pin

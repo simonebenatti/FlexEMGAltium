@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=Cb40
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2-POWER Member=Cb94
+Change Component Footprint: Designator=C10 Old Footprint=0402_ss New Footprint=0402
+Change Component Footprint: Designator=C21 Old Footprint=0402_ss New Footprint=0402
+Change Component Footprint: Designator=C22 Old Footprint=0402_ss New Footprint=0402
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component Cb40 GRM155R61H104KE19D
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component Cb94 GRM155R61H104KE19D
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component Re1 ERJ-2BQF1R0X

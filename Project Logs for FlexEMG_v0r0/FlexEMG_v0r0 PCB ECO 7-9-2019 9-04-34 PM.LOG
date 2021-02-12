@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VAVD_OUT Pin=C2-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C3-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C4-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C5-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C6-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C7-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=C8-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=R1-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=RVREG1-2
+Removed Pin From Net: NetName=VAVD_OUT Pin=U2-1
+Removed Pin From Net: NetName=VAVD_OUT Pin=U2-6
+Removed Pin From Net: NetName=VAVD_OUT Pin=U2-12
+Removed Pin From Net: NetName=VAVD_OUT Pin=U2-26
+Removed Pin From Net: NetName=VAVD_OUT Pin=U2-40
+Removed Pin From Net: NetName=VAVD_OUT Pin=YW1-4
+Change Net Name : Old Net Name=VAVD_OUT New Net Name=VDD_1V8
+Added Pin To Net: NetName=DVDD Pin=C2-2
+Added Pin To Net: NetName=DVDD Pin=C3-2
+Added Pin To Net: NetName=DVDD Pin=C4-2
+Added Pin To Net: NetName=DVDD Pin=C5-2
+Added Pin To Net: NetName=DVDD Pin=C6-2
+Added Pin To Net: NetName=DVDD Pin=C7-2
+Added Pin To Net: NetName=DVDD Pin=C8-2
+Added Pin To Net: NetName=DVDD Pin=R1-2
+Added Pin To Net: NetName=DVDD Pin=RVREG1-2
+Added Pin To Net: NetName=DVDD Pin=U2-1
+Added Pin To Net: NetName=DVDD Pin=U2-6
+Added Pin To Net: NetName=DVDD Pin=U2-12
+Added Pin To Net: NetName=DVDD Pin=U2-26
+Added Pin To Net: NetName=DVDD Pin=U2-40
+Added Pin To Net: NetName=DVDD Pin=YW1-4
+Added Net: Name=DVDD

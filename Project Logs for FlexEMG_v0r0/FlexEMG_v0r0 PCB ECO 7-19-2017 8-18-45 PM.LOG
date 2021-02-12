@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=CObat Old DesignItemId=Header 2 New DesignItemId=Header, 2 pin, 100mil
+Change Component DesignItemId : Designator=COchg Old DesignItemId=Header 2 New DesignItemId=Header, 2 pin, 100mil
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=Header 2 New DesignItemId=SWITCH_SPST
+Change Component Footprint: Designator=SW1 Old Footprint=HDR1X2-50mil New Footprint=SWITCH_SPST_copal-CHS-01TB
+Change Component Comment : Designator=CObat Old Comment=Header 1x2, local stock New Comment=Header, 2 pin, 100mil
+Change Component Comment : Designator=COchg Old Comment=Header 1x2, local stock New Comment=Header, 2 pin, 100mil
+Change Component Comment : Designator=SW1 Old Comment=Header 1x2, local stock New Comment=SWITCH_SPST
+Change Component Description : Designator=CObat Old Description=Header 1x2 New Description=
+Change Component Description : Designator=COchg Old Description=Header 1x2 New Description=
+Change Component Library : Designator=CObat Old Library=Custom.IntLib New Library=CM.SchLib
+Change Component Library : Designator=COchg Old Library=Custom.IntLib New Library=CM.SchLib

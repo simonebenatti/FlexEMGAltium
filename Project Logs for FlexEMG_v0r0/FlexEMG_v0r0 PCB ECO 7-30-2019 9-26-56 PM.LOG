@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=Cd3-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cd3-2
+Removed Pin From Net: NetName=GND Pin=Cd4-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cd4-2
+Removed Pin From Net: NetName=GND Pin=Cd5-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cd5-2
+Removed Pin From Net: NetName=GND Pin=Cd6-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Cd6-2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd3
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd4
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd5
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Cd6

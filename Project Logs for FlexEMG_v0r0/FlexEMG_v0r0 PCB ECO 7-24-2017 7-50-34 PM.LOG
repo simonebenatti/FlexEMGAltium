@@ -1,0 +1,8 @@
+Change Component Description : Designator=COch1 Old Description= New Description=Header  1x2
+Change Component Description : Designator=CO2 Old Description= New Description=solder pads for SF2 GPIO connections
+Change Component Description : Designator=Y2 Old Description=16MHz ±10ppm Crystal 10pF 80 Ohm -10°C ~ 60°C Surface Mount 4-SMD, No Lead DFN LCC New Description=CRYSTAL 16.0000MHZ 10PF SMD
+Change Component Description : Designator=Y1 Old Description=Crystal 20MHz ±10ppm 10pF 70 Ohm -10°C ~ 60°C Surface Mount 4-SMD, No Lead DFN LCC New Description=CRYSTAL 20.0000MHZ 10PF SMD
+Change Component Description : Designator=LED1 Old Description=LED ORANGE CLEAR 0603 SMD New Description=LED YELLOW CLEAR 0603 SMD
+Change Component Description : Designator=LED0 Old Description=LED YELLOW CLEAR 0603 SMD New Description=LED ORANGE CLEAR 0603 SMD
+Added Rule: Name=Schematic Short-Circuit Constraint
+Added Rule: Name=Schematic Short-Circuit Constraint_1

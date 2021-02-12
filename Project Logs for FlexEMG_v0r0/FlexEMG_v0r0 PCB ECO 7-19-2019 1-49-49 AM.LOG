@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GPIO0 Pin=Rc0-2
+Added Pin To Net: NetName=GPIO5 Pin=Rc0-2
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2-COMM Member=Component Rc5 ERJ-2GE0R00X

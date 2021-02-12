@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NM1_REF Pin=CO3-47
+Removed Pin From Net: NetName=NM1_REF Pin=CO3-48
+Added Pin To Net: NetName=NM1_REF Pin=CO4-33
+Added Pin To Net: NetName=NM1_REF Pin=CO4-34

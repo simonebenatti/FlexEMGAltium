@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=Cs9-1
+Added Pin To Net: NetName=NetRs1_1 Pin=Cs9-1
+Change Net Name : Old Net Name=NetRs1_1 New Net Name=NetCs9_1

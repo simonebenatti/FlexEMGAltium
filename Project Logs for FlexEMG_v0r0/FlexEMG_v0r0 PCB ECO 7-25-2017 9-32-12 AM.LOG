@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NM_REF Pin=CO4-47
+Removed Pin From Net: NetName=NM_REF Pin=CO4-48
+Removed Pin From Net: NetName=NM_REF Pin=U5-44
+Added Component: Designator=RnG(0402_p)
+Added Pin To Net: NetName=GND Pin=RnG-1
+Change Net Name : Old Net Name=NM_REF New Net Name=NM1_REF
+Added Pin To Net: NetName=NM2_REF Pin=CO4-47
+Added Pin To Net: NetName=NM2_REF Pin=CO4-48
+Added Pin To Net: NetName=NM2_REF Pin=RnG-2
+Added Pin To Net: NetName=NM2_REF Pin=U5-44
+Added Net: Name=NM2_REF
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component RnG DNI

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GPIO0 Pin=CO2-1
+Added Pin To Net: NetName=GPIO1 Pin=CO2-2
+Added Pin To Net: NetName=GPIO2 Pin=CO2-3
+Added Pin To Net: NetName=GPIO3 Pin=CO2-4
+Added Pin To Net: NetName=GPIO4 Pin=CO2-5
+Added Pin To Net: NetName=GPIO5 Pin=CO2-6
+Added Pin To Net: NetName=GPIO0 Pin=Rc0-2
+Added Pin To Net: NetName=GPIO1 Pin=Rc1-2
+Added Pin To Net: NetName=GPIO2 Pin=RcC-2
+Added Pin To Net: NetName=GPIO3 Pin=RcD-2

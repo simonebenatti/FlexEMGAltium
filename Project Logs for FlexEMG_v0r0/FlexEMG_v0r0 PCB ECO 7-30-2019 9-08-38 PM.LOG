@@ -1,0 +1,8 @@
+Added Component: Designator=R6(0402_ss)
+Added Component: Designator=R7(0402_ss)
+Added Pin To Net: NetName=ACC_SDA Pin=R6-1
+Added Pin To Net: NetName=VDD_1V8 Pin=R6-2
+Added Pin To Net: NetName=ACC_SCL Pin=R7-1
+Added Pin To Net: NetName=VDD_1V8 Pin=R7-2
+Added Member To Class: ClassName=FlexEMG_v0r0_ACCEL Member=Component R6 Res3
+Added Member To Class: ClassName=FlexEMG_v0r0_ACCEL Member=Component R7 Res3

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=CO2-5
+Change Component DesignItemId : Designator=CO2 Old DesignItemId=SMD_5_LEAD New DesignItemId=SMD_8_LEAD
+Change Component Footprint: Designator=CO2 Old Footprint=PWD_CON New Footprint=CONN_SWD_8
+Change Component Comment : Designator=CO2 Old Comment=SMD_5_LEAD New Comment=SMD_8_LEAD
+Added Pin To Net: NetName=GND Pin=CO2-8
+Added Pin To Net: NetName=GPIO4 Pin=CO2-5
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=CO2-6
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=CO2-7
+Added Net: Name=GPIO6

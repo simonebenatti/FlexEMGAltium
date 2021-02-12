@@ -1,0 +1,6 @@
+Added Component: Designator=Re7(0402_p)
+Added Pin To Net: NetName=GND Pin=Re7-1
+Added Pin To Net: NetName=NetCOchg2_4 Pin=COchg2-4
+Added Pin To Net: NetName=NetCOchg2_4 Pin=Re7-2
+Added Net: Name=NetCOchg2_4
+Added Member To Class: ClassName=FlexEMG_v0r0_BATT-CHARGER Member=Component Re7 ERJ-2RKF4990X

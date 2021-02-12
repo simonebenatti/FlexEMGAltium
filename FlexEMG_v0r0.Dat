@@ -1,0 +1,60 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~138|Field=Value~String~Value~69|Field=Manufacturer PN~String~Manufacturer PN~377|Field=Description~String~Description~778|Field=Footprint~String~Footprint~100|Field=Manufacturer~String~Manufacturer~100|Field=Supplier~String~Supplier~100|Field=Supplier P/N~String~Supplier P/N~100|Field=Supplier PN~String~Supplier PN~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FlexEMG_v0r0.PrjPcb|ReportField=ProjectFullPath~P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0.PrjPcb|ReportField=Title~Bill of Materials For Project [FlexEMG_v0r0.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~202|ReportField=ReportTime~5:48:45 AM|ReportField=ReportDate~9/6/2017|ReportField=ReportDateTime~9/6/2017 5:48:45 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~9/6/2017|ReportField=CurrentTime~5:48:43 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0_ACCEL.SchDoc|ReportField=DocumentName~FlexEMG_v0r0_ACCEL.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/12/2017|ReportField=Organization~|ReportField=ProjectName~FlexEMG_v0r0.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~FlexEMG_v0r0.PrjPcb|ReportField=DataSourceFullPath~P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0.PrjPcb|ReportField=PCBDataSourceFileName~FlexEMG_v0r0.PcbDoc|ReportField=PCBDataSourceFullPath~P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|ANT1||ANT-2.45-CHP-T|ANT 2.4GHZ 802.11 BLUETOOTH SMD|ANTENNACHIP|Linx|Digikey||ANT-2.45-CHPCT-ND
+2|BAL1||2450BM08B0003T|BALUN 2.4GHZ|BALUN_PACKAGE|Johnson|Digikey||712-1582-1-ND
+3|C11, C12, C13, C14, C20, Cb31, CbA1, Ce3, Cs1, Cs3, Cs5, Cs7|4.7uF|GRM188R6YA475KE15D|CAP CER 4.7UF 35V X5R 0603|c0603-Murata-GR|Murata|Digikey||490-7205-1-ND
+4|C15, C16, C17, C19, Cb1, Cb2, Cb3, Cb4, Cb5, Cb6, Cb7, Cb8, Cb9, Cb10, Cb11, Cb12, Cb60, Cd2|100nF|GRM033R6YA104KE14D|CAP CER 0.1UF 16V X7S 0201|c0201-Murata-GR|Murata|Digikey||490-10430-1-ND
+5|C18, CbA0, Cd1, Cn2, Cn4, Cs2, Cs4, Cs6, Cs8|10uF|GRM188R61E106MA73D|CAP CER 10UF 25V X5R 0603 20%|c0603-Murata-GR|Murata|Digikey||490-7202-1-ND
+6|C32, C34, C56, C58, C78, C80, Ca1, Ca4, Cb20, Cb21, Cb22, Cb23, Cb24, Cb25, Cb26, Cb27, Cb28, Cb40, Cb41, Cb42, Cb43, Cb44, Cb45, Cb46, Cb47, Cb70, Cb71, Cb72, Cb73, Cb90, Cb91, Cb92, Cb93, Cb94, Cb95, Cb96, Cb97, Cn9, CnA, Cr3, Cr4, Cr5|100nF|GRM155R61H104KE19D|CAP CER 0.1UF 50V X5R 0402|c0402-Murata-GR|Murata|Digikey||490-11917-1-ND
+7|C33, C57, C79, Cb30, Cb50, Cb80, CbB0|22uF|GRM187R61A226ME15D|CAP CER 22UF 10V X5R 0603|c0603-Murata-GR|Murata|Digikey||490-13243-1-ND
+8|Ca2, Cc3|10nF|GRM033R61E103KA12D|CAP CER 10000PF 25V X5R 0201|c0201-Murata-GR|Murata|Digikey||490-7194-1-ND
+9|Ca3, Cr8|2.2nF|GRM155R71H222JA01J|CAP CER 2200PF 50V X7R 0402|c0402-Murata-GR|Murata|Digikey||490-6359-1-ND
+10|Cc1, Cc2, Cr1, Cr2|12pF|GRM1555C1H120FA01D|CAP CER 12PF 50V NP0 0402|c0402-Murata-GR|Murata|Digikey||490-6196-1-ND
+11|Cd3, Cd4, Cd5, Cd6|100nF|CGA2B3X7R1H104K050BB|CAP CER 0.1UF 50V X7R 0402|c0402-TDK-C|TDK|Digikey||445-6899-1-ND
+12|Ce1, Ce2|1uF|C1005X5R1C105M050BC|CAP CER 1UF 16V X5R 0402|c0402-TDK-C|TDK|Digikey||445-9073-1-ND
+13|Ce4, Cr6|1nF|GRM155R61H102KA01D|CAP CER 1000PF 50V X5R 0402|c0402-Murata-GR|Murata|Digikey||490-6316-1-ND
+14|Cn1, Cn3|5pf|GRM1555C1H5R0BA01D|CAP CER 5PF 50V NP0 0402 +-0.1pf|c0402-Murata-GR|Murata|Digikey||490-8213-1-ND
+15|Cn5, Cn6, Cn7, Cn8, Re7, RnF, RnG||DNI|Capacitor, Capacitor, Capacitor, Capacitor, Resistor, Resistor, Resistor|c0402-Murata-GR, c0402-Murata-GR, c0402-Murata-GR, c0402-Murata-GR, 0402_p, 0402_p, 0402_p|[NoValue], [NoValue], [NoValue], [NoValue], Panasonic, Panasonic, Panasonic|Digikey||
+16|CO1||CLP-106-02-x-D|12 pin female JTAG/SWD header for SmartFusion2 and Nordic|CONN_12-CLP|Samtec|Digikey||SAM1153-06-ND
+17|CO3, CO4||DF12(3.0)-80DP-0.5V|CONN HEADER 80POS 3MM SMD 0.5MM|CONN_DF12(3.0)-80DP_bottom|Hirose|Digikey||H5225CT-ND
+18|CObat, COch1||TMM-102-03-T-S|Header 1x2|Header, 2 pin, 2mm(79mil)|Samtec|Digikey||SAM8977-ND
+19|COch2||10118194-0001LF|USB micro-B connector|USB-microB_amp_10118194-0001LF|Amphenol|Digikey||609-4618-1-ND
+20|Cr7|47nF|GRM155R71E473KA88D|CAP CER 0.047UF 25V X7R 0402 10%|c0402-Murata-GR|Murata|Digikey||490-3254-1-ND
+21|Cs9|22pf|GRM1555C1H220FA01D|CAP CER 22PF 50V NP0 0402|c0402-Murata-GR|Murata|Digikey||490-8589-1-ND
+22|LED0, LED3||SML-311DTT86|LED ORANGE CLEAR 0603 SMD|LED-0603|Rohm|Digikey||511-1303-1-ND
+23|LED1||SML-311YTT86|LED YELLOW CLEAR 0603 SMD|LED-0603|Rohm|Digikey||511-1305-1-ND
+24|LED2, LED4||SML-311UTT86|LED RED CLEAR 0603 SMD|LED-0603|Rohm|Digikey||511-1304-1-ND
+25|Ls1, Ls2, Ls3, Ls4|2.2uH|LQM2HPN2R2MJ0L|FIXED IND 2.2UH 1A 120 MOHM SMD|LEAD_REGULATOR|Murata|Digikey||490-6700-6-ND
+26|R3, R4, R5, Rc3, Rd2, Rd3|1k|ERJ-1GEF1001C|RES SMD 1K OHM 1% 1/20W 0201|0201_p|Panasonic|Digikey|P1.00KABCT-ND|
+27|Rc0, Rc1, RcC, RcD|110|ERJ-2RKF1100X|RES SMD 110 OHM 1% 1/10W 0402|0201_p|Panasonic|Digikey|P110LCT-ND|
+28|Rc2|10k|ERJ-1GEF1002C|RES SMD 10K OHM 1% 1/20W 0201|0201_p|Panasonic|Digikey|P10.0KABCT-ND|
+29|Rc4, Rc5, RnB, RnC, RnD, RnE|0|ERJ-2GE0R00X|RES SMD 0.0OHM JUMPER 1/10W 0402|0402_p|Panasonic|Digikey|P0.0JCT-ND|
+30|Rc6, Rc9, RcA, RcB, Rr0, Rr1, Rr2, Rr3|33|ERJ-PA2J330X|RES SMD 33 OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P17184CT-ND|
+31|Rc7, Rc8, Rr6|1k|ERJ-2RKF1001X|RES SMD 1K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P1.00KLCT-ND|
+32|Rd0, Rd1|24k|ERJ-2RKF2402X|RES SMD 24K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P24.0KLCT-ND|
+33|Rd4|100|ERJ-PA2F1000X|RES SMD 100 OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P17218CT-ND|
+34|Re1, Re5|1|ERJ-2BQF1R0X|RES SMD 1 OHM 1% 1/6W 0402|0402_p|Panasonic|Digikey|P17252CT-ND|
+35|Re2|499|ERJ-2RKF4990X|RES SMD 499 OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P499LCT-ND|
+36|Re3|1M|ERJ-2RKF1004X|RES SMD 1M OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P1.00MLCT-ND|
+37|Re4|2k|ERJ-2RKF2001X|RES SMD 2K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P2.00KLCT-ND|
+38|Re6, Rn2, Rn4, Rn6, Rn8, Rr4, Rr5|10k|ERJ-2RKF1002X|RES SMD 10K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P10.0KLCT-ND|
+39|Re8|150|ERJ-PA2J151X|RES SMD 150 OHM 5% 1/5W 0402|0402_p|Panasonic|Digikey|P17188CT-ND|
+40|Rn1, Rn5|270|ERJ-2RKF2700X|RES SMD 270 OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P270LCT-ND|
+41|Rn3, Rn7|510k|ERJ-2RKF5103X|RES SMD 499K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P510KLCT-ND|
+42|Rn9, RnA|47K|ERJ-2RKF4702X|RES SMD 47K OHM 1% 1/10W 0402|0402_p|Panasonic|Digikey|P47.0KLCT-ND|
+43|Rs1|715k|ERJ-1GEF7153C|RES SMD 715K OHM 1% 1/20W 0201|0201_p|Panasonic|Digikey|P715KABCT-ND|
+44|Rs2|180k|ERJ-1GEF1803C|RES SMD 180K OHM 1% 1/20W 0201|0201_p|Panasonic|Digikey|P180KABCT-ND|
+45|SW1||CHS-01TB|SWITCH SLIDE DIP SPST 100MA 6V|SWITCH_SPST_CHS-01TB|Copal|Digikey||563-1004-1-ND
+46|U1||M2S060T-CS325|SmartFusion2|MCSM-CS-325|Microsemi|Future||M2S060T-FCSG325I
+47|U2||MT46H32M16LFBF-5 IT:C|IC LPDDR SDRAM 512MBIT 60VFBGA 16x32|VFBGA-60|Micron|Digikey||557-1627-ND
+48|U3||NRF51822-CFAC-R|IC SOC 2.4GHZ MULTIPROTO 62WLCS|BGA_NORDIC|Nordic|Digikey||1490-1041-1-ND
+49|U4, U5||Custom|Neuromodulator|NMv2|Cortera|||
+50|U6||TPS62262TDRVRQ1|IC REG BUCK 1.2V 0.6A SYNC 6SON|TPS_PACKAGE_novia|TI|Digikey||296-25730-1-ND
+51|U7||TPS62261TDRVRQ1|IC REG BUCK 1.8V 0.6A SYNC 6SON|TPS_PACKAGE_novia|TI|Digikey||296-25729-1-ND
+52|U8||TPS62263TDRVRQ1|IC REG BUCK 2.5V 0.6A SYNC 6SON|TPS_PACKAGE_novia|TI|Digikey||296-25731-1-ND
+53|U9||TPS62260TDRVRQ1|IC REG BUCK ADJ 0.6A SYNC 6SON|TPS_PACKAGE_novia|TI|Digikey||296-36823-1-ND
+54|U10||MPU-6050|GYRO/ACCELEROMETER 6AXIS 24QFN|QFN-24|InvenSense|Digikey||1428-1007-1-ND
+55|U11||LTC4065EDC#TRMPBF|IC CHARGER BATT LI-ON 6-DFN|DFN6_LT|LT|Digikey||LTC4065EDC#TRMPBFCT-ND
+56|Un3, Un4||NC7WV04L6X|IC INVERTER ULP-A DUAL 6MICROPAK|6micropak|Fairchild|Digikey||NC7WV04L6XCT-ND
+57|Un5, Un6||TXB0101YZPR|Single level converter|YZP6-ti|TI|Digikey||296-21927-1-ND
+58|Y1||NX2520SA-20.000000MHZ|CRYSTAL 20.0000MHZ 10PF SMD|XOSC_4PIN|NDK|Digikey||644-1060-6-ND
+59|Y2||NX2520SA-16.000000MHZ|CRYSTAL 16.0000MHZ 10PF SMD|XOSC_4PIN|NDK|Digikey||644-1059-1-ND

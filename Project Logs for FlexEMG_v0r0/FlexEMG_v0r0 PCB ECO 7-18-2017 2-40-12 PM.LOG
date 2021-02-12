@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=N2_CLK_3V Pin=Un5-A1
+Removed Pin From Net: NetName=N1_CLK_3V Pin=Un5-A2
+Removed Pin From Net: NetName=VDD_3V0 Pin=Un5-B2
+Removed Pin From Net: NetName=VDD_1V8 Pin=Un5-C1
+Removed Pin From Net: NetName=VDD_1V8 Pin=Un5-C2
+Removed Pin From Net: NetName=N2_CLK Pin=Un5-D1
+Removed Pin From Net: NetName=N1_CLK Pin=Un5-D2
+Change Component DesignItemId : Designator=Un5 Old DesignItemId=TXB0102 New DesignItemId=TXB0101
+Change Component Footprint: Designator=Un5 Old Footprint=YZP8-ti New Footprint=YZP6-ti
+Change Component Comment : Designator=Un5 Old Comment=TXB0102YZPR New Comment=TXB0101
+Added Component: Designator=Un6(YZP6-ti)
+Added Pin To Net: NetName=VDD_1V8 Pin=Un5-A1
+Added Pin To Net: NetName=VDD_3V0 Pin=Un5-A2
+Added Pin To Net: NetName=VDD_1V8 Pin=Un5-B2
+Added Pin To Net: NetName=N1_CLK Pin=Un5-C1
+Added Pin To Net: NetName=N1_CLK_3V Pin=Un5-C2
+Added Pin To Net: NetName=VDD_1V8 Pin=Un6-A1
+Added Pin To Net: NetName=VDD_3V0 Pin=Un6-A2
+Added Pin To Net: NetName=GND Pin=Un6-B1
+Added Pin To Net: NetName=VDD_1V8 Pin=Un6-B2
+Added Pin To Net: NetName=N2_CLK Pin=Un6-C1
+Added Pin To Net: NetName=N2_CLK_3V Pin=Un6-C2
+Added Member To Class: ClassName=FlexEMG_v0r0_NM Member=Component Un6 TXB0101

@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: P:\fred\OMNI\PCB designs\Flex-EMG\Altium\FlexEMG_v0r0.PcbDoc
+RuleKind=Clearance|RuleName=mdPadClassTrack|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=mdWireWire|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=mdWirePad|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=mdWireVia|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=mdPadPad|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=mdPadVia|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=mdViaVia|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Keepout|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=Schematic Short-Circuit Constraint_1|Scope=Board|Allowed=1

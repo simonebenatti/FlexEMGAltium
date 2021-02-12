@@ -1,0 +1,30 @@
+Added Component: Designator=J1(CONN_HDR_4x2)
+Added Pin To Net: NetName=VDD_1V8 Pin=C2-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C3-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C4-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C5-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C6-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C7-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C8-2
+Added Pin To Net: NetName=VDD_1V8 Pin=J1-1
+Added Pin To Net: NetName=JTAG.T\R\S\T\ Pin=J1-2
+Added Pin To Net: NetName=JTAG.TCK Pin=J1-3
+Added Pin To Net: NetName=JTAG.TDI Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=JTAG.TDO Pin=J1-6
+Added Pin To Net: NetName=JTAG.TMS Pin=J1-8
+Added Pin To Net: NetName=VDD_1V8 Pin=R1-2
+Added Pin To Net: NetName=VDD_1V8 Pin=RVREG1-2
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-1
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-6
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-12
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-26
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-40
+Added Pin To Net: NetName=VDD_1V8 Pin=YW1-4
+Change Net Name : Old Net Name=CAM.HSYNC New Net Name=DRDY_NRF
+Change Net Name : Old Net Name=CAM.PCLK New Net Name=DRDY_OUT
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=R1-1
+Added Pin To Net: NetName=NetJ1_7 Pin=U2-60
+Added Net: Name=NetJ1_7
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component J1 Header 4x2

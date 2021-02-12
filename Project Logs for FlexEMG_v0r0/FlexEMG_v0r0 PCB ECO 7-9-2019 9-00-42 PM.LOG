@@ -1,0 +1,22 @@
+Added Component: Designator=L1(BOUR-IND-SRN4026)
+Added Pin To Net: NetName=VDD_1V8 Pin=C2-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C3-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C4-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C5-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C6-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C7-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C8-2
+Added Pin To Net: NetName=VCLU Pin=L1-1
+Added Pin To Net: NetName=VDD_1V8 Pin=R1-2
+Added Pin To Net: NetName=VDD_1V8 Pin=RVREG1-2
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-1
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-6
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-12
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-26
+Added Pin To Net: NetName=VDD_1V8 Pin=U2-40
+Added Pin To Net: NetName=VDD_1V8 Pin=YW1-4
+Change Net Name : Old Net Name=VDD_1V8 New Net Name=VAVD_OUT
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U2-50
+Added Net: Name=NetL1_2
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component L1 SRN4026-220M

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=C2-2
+Removed Member From Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=C2

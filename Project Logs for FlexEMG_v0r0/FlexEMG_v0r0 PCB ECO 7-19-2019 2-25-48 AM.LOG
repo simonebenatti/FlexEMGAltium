@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GPIO5 Pin=J1-13
+Added Component: Designator=R2(0603)
+Added Pin To Net: NetName=GPIO5 Pin=R2-1
+Added Pin To Net: NetName=GPIO5 Pin=R2-2
+Added Member To Class: ClassName=FlexEMG_v0r0_SF2_DDR Member=Component R2 

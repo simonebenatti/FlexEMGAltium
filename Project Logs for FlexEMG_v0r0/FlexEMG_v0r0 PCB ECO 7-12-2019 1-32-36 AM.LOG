@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Rr0 Old Footprint=0402_P New Footprint=0201
+Change Component Footprint: Designator=Rr1 Old Footprint=0402_P New Footprint=0201
+Change Component Footprint: Designator=Rr2 Old Footprint=0402_P New Footprint=0201
+Change Component Footprint: Designator=Rr3 Old Footprint=0402_P New Footprint=0201
+Change Component Footprint: Designator=Rr4 Old Footprint=0402_P New Footprint=0201
+Change Component Footprint: Designator=Rr6 Old Footprint=0402_P New Footprint=0201
+Change Component Comment : Designator=Cr3 Old Comment=GRM155R61H104KE19D New Comment=GRM033R6YA104KE14D
+Change Component Comment : Designator=Cr5 Old Comment=GRM155R61H104KE19D New Comment=GRM033R6YA104KE14D
